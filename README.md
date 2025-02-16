@@ -46,7 +46,7 @@ This project implements a **password-protected security system** using **Arduino
 
 ---
 
-## 📷 Circuit Diagram  
-![Security System Circuit](./schematic diagram.png)  
+## 🎮 Live Simulation  
+🔗 [View Tinkercad Simulation](https://www.tinkercad.com/things/jT9wteNn0GJ-graduation-project-security-system-)    
 
 ---
