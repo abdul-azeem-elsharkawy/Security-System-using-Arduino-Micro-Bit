@@ -46,7 +46,7 @@ This project implements a **password-protected security system** using **Arduino
 
 ---
 
-## 🎮 Live Simulation  
-🔗 [View Tinkercad Simulation](https://www.tinkercad.com/things/jT9wteNn0GJ-graduation-project-security-system-)    
+## 🖼️ Simulation Preview  
+![Tinkercad Simulation](https://media-hosting.imagekit.io//8ced063cd5cd45a8/Screenshot%202025-02-16%20145655.png?Expires=1834318632&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=oY5Ts04e31eLW2LU5Mvm9hOuYwG75zGrFKm3wKwsrF8ZwMDWi29eM18sfB4i1L9EtMADhrwbNq4ucuj3Omp19ga8DvcbPSn2F4eFz3AjeHxdwPvFslvowx3~RgsPPEgKXrVIEd6k0qSWPn6GEXI~L7H23i3HJulziWwZrtGazSKU2NFp-1hPfecx5Vq7wa268o94uCiZ6o3hsTRaqEspXFEfjuLWaz9y9wsfWCMVmPAYFZyR~04ypkWacKRmIHNJT49atVrq8xC3dNuywqfHDEuTZON875fFszAKGp0eCpvTvaj6n34yIH7SyzTH7dJbr7XEJrRFu4Yos9CfOS6j0Q__)  
+🔗 [View Live Simulation](https://www.tinkercad.com/things/jT9wteNn0GJ-graduation-project-security-system-)  
 
----
